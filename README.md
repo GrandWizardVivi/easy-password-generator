@@ -1,3 +1,5 @@
+The hard version scrambles the choices and presents them that way.
+
 <!-- Import random function -->
 import random
 
